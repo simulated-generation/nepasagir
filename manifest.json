@@ -1,10 +1,14 @@
 {
-  "name": "NE PAS AGIR.",
-  "short_name": "NE PAS AGIR",
-  "start_url": ".",
+  "name": "Ne Pas Agir",
+  "short_name": "nepasagir",
+  "start_url": "https://nepasagir.com",
+  "scope": "https://nepasagir.com/",
+  "description": "ne pas agir",
+  "id": "ne pas agir",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
+  "orientation": "any",
   "icons": [
     {
       "src": "icon.png",
